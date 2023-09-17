@@ -1,0 +1,2 @@
+# USTeen Final Project
+This portfolio project is a project that the USTeen academy coding summer camp requested from me. The purpose of this project is a hands-on project to lay the groundwork for many lessons we have taken over the summer, namely HRML5, css, BEM Naming Convention for css, FortAwesome Library, Git & Github, VSCode IDE and Responsive Design.
